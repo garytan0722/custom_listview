@@ -2,32 +2,186 @@
 <items version="2" >
 
     <item
+        jar="/Users/garytan/StudioProjects/listview/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/garytan/StudioProjects/listview/app/build/intermediates/pre-dexed/release/classes-bf7099ff685a43d40e76745aada56381eb54484d.jar" />
+    </item>
+    <item
+        jar="/Users/garytan/StudioProjects/listview/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/Users/garytan/StudioProjects/listview/app/build/intermediates/pre-dexed/release/classes-71df66805bf7f7e8620e80c529216346aaddb617.jar" />
+    </item>
+    <item
+        jar="/Users/garytan/StudioProjects/listview/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/garytan/StudioProjects/listview/app/build/intermediates/pre-dexed/release/classes-645dcaa58379657e358d0392b7b62129f581e9fa.jar" />
+    </item>
+    <item
+        jar="/Users/garytan/StudioProjects/listview/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/Users/garytan/StudioProjects/listview/app/build/intermediates/pre-dexed/release/classes-a3fc1dc3c3d3e1cddd2fed9696f58470874b5f26.jar" />
+    </item>
+    <item
+        jar="/Users/garytan/StudioProjects/listview/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/Users/garytan/StudioProjects/listview/app/build/intermediates/pre-dexed/release/classes-4617ea682b9ae96f647a6812bdcb613f1c40c407.jar" />
+    </item>
+    <item
+        jar="/Users/garytan/StudioProjects/listview/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/Users/garytan/StudioProjects/listview/app/build/intermediates/pre-dexed/release/internal_impl-22.0.0-dcf3a627b2d8b9be8aca0822f3e74cee2afe2a54.jar" />
+    </item>
+    <item
+        jar="/Users/garytan/StudioProjects/listview/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/garytan/StudioProjects/listview/app/build/intermediates/pre-dexed/release/classes-19930c1c447e8a736a921e9ac3839da83cf39551.jar" />
+    </item>
+    <item
+        jar="/Users/garytan/StudioProjects/listview/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/Users/garytan/StudioProjects/listview/app/build/intermediates/pre-dexed/release/classes-020e30c331e89479a995442a6daeeae6772511b6.jar" />
+    </item>
+    <item
+        jar="/Users/garytan/StudioProjects/listview/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/Users/garytan/StudioProjects/listview/app/build/intermediates/pre-dexed/release/classes-fef084bd5f009d12c8568f786ac608737049de49.jar" />
+    </item>
+    <item
+        jar="/Users/garytan/StudioProjects/listview/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/Users/garytan/StudioProjects/listview/app/build/intermediates/pre-dexed/release/classes-fad84c034c9809042425ca0a3a367a8254b897d9.jar" />
+    </item>
+    <item
+        jar="/Users/garytan/StudioProjects/listview/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/Users/garytan/StudioProjects/listview/app/build/intermediates/pre-dexed/release/classes-388d67e1c82598f0b7b26f85b0eed68bd3d7c8d4.jar" />
+    </item>
+    <item
         jar="/Users/garytan/StudioProjects/listview/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
         jumboMode="false"
         revision="21.1.1"
         sha1="f8efd0096475e0daf054267b61544e10dc776503">
-        <dex dex="/Users/garytan/StudioProjects/listview/app/build/intermediates/pre-dexed/debug/classes-2b8d80f0df128cce21da4b678004ba2f4e2701f1.jar" />
+        <dex dex="/Users/garytan/StudioProjects/listview/app/build/intermediates/pre-dexed/release/classes-2b8d80f0df128cce21da4b678004ba2f4e2701f1.jar" />
     </item>
     <item
-        jar="/Users/garytan/StudioProjects/listview/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jar="/Users/garytan/StudioProjects/listview/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
         jumboMode="false"
         revision="21.1.1"
-        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
-        <dex dex="/Users/garytan/StudioProjects/listview/app/build/intermediates/pre-dexed/debug/classes-ff0459cefaf56dcc0d128722a3f0afbb614b42dd.jar" />
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/Users/garytan/StudioProjects/listview/app/build/intermediates/pre-dexed/release/classes-462351e19184ddf9e27deeb794f799864d296452.jar" />
     </item>
     <item
         jar="/Users/garytan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
         jumboMode="false"
         revision="21.1.1"
         sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
-        <dex dex="/Users/garytan/StudioProjects/listview/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-f6d000560e23395113ffabaa3df335fe87ba13e9.jar" />
+        <dex dex="/Users/garytan/StudioProjects/listview/app/build/intermediates/pre-dexed/release/support-annotations-22.2.1-f6d000560e23395113ffabaa3df335fe87ba13e9.jar" />
     </item>
     <item
         jar="/Users/garytan/StudioProjects/listview/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
         jumboMode="false"
         revision="21.1.1"
         sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
-        <dex dex="/Users/garytan/StudioProjects/listview/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-f19f15a878977988e156f4ec8299846158ae3563.jar" />
+        <dex dex="/Users/garytan/StudioProjects/listview/app/build/intermediates/pre-dexed/release/internal_impl-22.2.1-f19f15a878977988e156f4ec8299846158ae3563.jar" />
+    </item>
+    <item
+        jar="/Users/garytan/StudioProjects/listview/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/garytan/StudioProjects/listview/app/build/intermediates/pre-dexed/release/classes-ff0459cefaf56dcc0d128722a3f0afbb614b42dd.jar" />
+    </item>
+    <item
+        jar="/Users/garytan/StudioProjects/listview/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/Users/garytan/StudioProjects/listview/app/build/intermediates/pre-dexed/release/classes-92d8c293b66af5604661316ae52ba288f5fa7321.jar" />
+    </item>
+    <item
+        jar="/Users/garytan/StudioProjects/listview/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/Users/garytan/StudioProjects/listview/app/build/intermediates/pre-dexed/release/classes-79103e2ac800f3cf6c5a709835fdf8cae3a59fe8.jar" />
+    </item>
+    <item
+        jar="/Users/garytan/StudioProjects/listview/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/Users/garytan/StudioProjects/listview/app/build/intermediates/pre-dexed/release/classes-b2ffd6d1b1a8bff19ecf2a3a871bfa5b6c55ecd0.jar" />
+    </item>
+    <item
+        jar="/Users/garytan/StudioProjects/listview/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/Users/garytan/StudioProjects/listview/app/build/intermediates/pre-dexed/release/classes-bd334152d54e299b7be258f6ac597341734505c8.jar" />
+    </item>
+    <item
+        jar="/Users/garytan/StudioProjects/listview/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/Users/garytan/StudioProjects/listview/app/build/intermediates/pre-dexed/release/classes-293fc49c97cb36c5cba22a142886bd3d808572aa.jar" />
+    </item>
+    <item
+        jar="/Users/garytan/StudioProjects/listview/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/Users/garytan/StudioProjects/listview/app/build/intermediates/pre-dexed/release/classes-b10dd781a40dbae55674ff3dd299e8e74a1053f8.jar" />
+    </item>
+    <item
+        jar="/Users/garytan/StudioProjects/listview/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/Users/garytan/StudioProjects/listview/app/build/intermediates/pre-dexed/release/classes-389b6e1010f6edad91d942574632b8ee3b29be7d.jar" />
+    </item>
+    <item
+        jar="/Users/garytan/StudioProjects/listview/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/Users/garytan/StudioProjects/listview/app/build/intermediates/pre-dexed/release/classes-60676b506359c196871f19697d932e5ad04fd508.jar" />
+    </item>
+    <item
+        jar="/Users/garytan/StudioProjects/listview/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/Users/garytan/StudioProjects/listview/app/build/intermediates/pre-dexed/release/classes-1439061a844850f02ef2d1d6a2a7a10856cfe603.jar" />
+    </item>
+    <item
+        jar="/Users/garytan/StudioProjects/listview/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/Users/garytan/StudioProjects/listview/app/build/intermediates/pre-dexed/release/classes-a72358ec870acc760a418b25f80ce32a50d20b61.jar" />
     </item>
 
 </items>

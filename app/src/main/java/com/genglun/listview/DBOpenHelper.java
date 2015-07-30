@@ -28,28 +28,28 @@ public class DBOpenHelper extends SQLiteOpenHelper {
 
     @Override
     public void onCreate(SQLiteDatabase db) {
-        String create_tracker="create table" +TRACKER_TABLE+"("
-                +TRACKER_ID+"integer primary key autoinorement"
-                +TRACKER_DATE+"text"
-                +TRACKER_TIME+"text )";
-        String create_record="create table" +RECORD_TABLE+"("
-                +RECORD_ID+"integer primary key autoinorement"
-                +RECORD_LAT+"text"
-                +RECORD_LON+"text"
-                +RECORD_LON+"text"
-                +RECORD_DATE+"text"
-                +RECORD_TIME+"text"
-                +RECORD_REFID+"integer )";
+        String create_tracker="create table "+TRACKER_TABLE+"("
+                +TRACKER_ID+" integer primary key autoincrement,"
+                +TRACKER_DATE+" text, "
+                +TRACKER_TIME+" text )";
+
+        String create_record="create table "+RECORD_TABLE+"("
+                +RECORD_ID+" integer primary key autoincrement,"
+                +RECORD_REFID+" integer, "
+                +RECORD_LAT+" text, "
+                +RECORD_LON+" text, "
+                +RECORD_DATE+" text, "
+                +RECORD_TIME+" text )";
         db.execSQL(create_record);
         db.execSQL(create_tracker);
 
     }
 
     @Override
-    public void onUpgrade(SQLiteDatabase sqLiteDatabase, int i, int i2) {
-        sqLiteDatabase.execSQL("drop table if exists "+TRACKER_TABLE);
+    public void onUpgrade(SQLiteDatabase sqLiteDatabase, int i, int i2) {//若資料庫版本不同
+        sqLiteDatabase.execSQL("drop table if exists "+TRACKER_TABLE);//刪除資料表
         sqLiteDatabase.execSQL("drop table if exists "+RECORD_TABLE);
-        onCreate(sqLiteDatabase);
+        onCreate(sqLiteDatabase);//重新建資料表
     }
 
 }
